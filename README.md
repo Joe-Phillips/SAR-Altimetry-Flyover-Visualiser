@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Then run from the command line:
 ```bash
-python plot-sar-flyover.py <satellite> <start> <end> <dem_path> <l2_path> [options]
+python plot_sar_flyover.py <satellite> <start> <end> <dem_path> <l2_path> [options]
 ```
 
 ### Positional Arguments
